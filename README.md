@@ -41,9 +41,9 @@ pip install pyaudio
 Run the abluf_cartoon_speech.py code,
 
 Say your feedback : - "Good" : Dog caught/is close to the mouse   
-                    - "Bad" : Dog is far from the mouse
-                    - "Neutral" : no feedback
-                    - "State" :go to next state 
+                    - "Bad" : Dog is far from the mouse  
+                    - "Neutral" : no feedback  
+                    - "State" :go to next state   
 
 #
 
