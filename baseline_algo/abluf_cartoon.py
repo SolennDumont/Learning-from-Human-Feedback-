@@ -143,36 +143,6 @@ while done != 1:
 
     f, result = show_image(s,rat_action,dog_action,dog_size,rat_size,length, N_ACT, PI)
     step_t += 1
-    
-    #----------------------------------------------------------------#
-
-    # if abs(dog_action - rat_action) == 0 : #Catch
-    #     f = 0 #Good feed back
-    # elif abs(dog_action - rat_action) == 1 :
-    #     f = 2 #Neutral feed back
-    # else :
-    #     f = 1 #Bad feed back (too far)
-
-    # automatic_feed_back.append(f)
-    
-    # if len(automatic_feed_back) > 5 : 
-    #     bad = False
-    #     neutral = 0
-    #     good = 0
-    #     for fb in automatic_feed_back[-3:]:
-    #         if fb == 1 :
-    #             bad = True
-    #         elif fb == 2 :
-    #             neutral += 1
-    #         else :
-    #             good += 1
-
-    #     if bad == False and neutral <= good : #If the four last feedback are mostly good
-    #         f = 3 # Next state
-
-    # print("Automatic feed back :", f)
-
-    #----------------------------------------------------------------#
 
     if dog_action == rat_action :
         catch_states += 1
