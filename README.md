@@ -47,4 +47,5 @@ Say your feedback : - "Good" : Dog caught/is close to the mouse
 
 ### Tips : 
 - Run the code from terminal (figures may not plot correctly with some IDEs)
+- Create a data depository to save your training
 - Don't forget to check the report !
