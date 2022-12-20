@@ -5,6 +5,8 @@ https://github.com/hlhllhLearning-Behaviors-with-Uncertain-Human-Feedback
 
 # Gesture feedback 
 
+with TechVidvan Real-time Hand Gesture Recognition model found here : https://techvidvan.com/tutorials/hand-gesture-recognition-tensorflow-opencv/
+
 ## REQUIREMENTS 
 
 pip install opencv-python
