@@ -3,6 +3,8 @@
 From the paper "Learning Behaviors with Uncertain Human Feedback" with code found here :
 https://github.com/hlhllhLearning-Behaviors-with-Uncertain-Human-Feedback
 
+With Noama Adra. November-December 2022.
+
 # Gesture feedback 
 
 with TechVidvan Real-time Hand Gesture Recognition model found here : https://techvidvan.com/tutorials/hand-gesture-recognition-tensorflow-opencv/
