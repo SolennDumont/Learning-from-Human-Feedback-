@@ -3,7 +3,7 @@
 From the paper "Learning Behaviors with Uncertain Human Feedback" with code found here :
 https://github.com/hlhllhLearning-Behaviors-with-Uncertain-Human-Feedback
 
-With Noama Adra. November-December 2022.
+With Noama Adra. December 2022.
 
 # Gesture feedback 
 
