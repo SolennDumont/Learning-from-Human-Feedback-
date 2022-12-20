@@ -21,10 +21,10 @@ Run the abluf_cartoon_gesture.py code,
 
 Close the figure of the rat chasing to turn on the camera,
 
-Sign your feedback : - "open hand" : Dog caught/is close to the mouse 
-                     - "peace sign" : Dog is far from the mouse
-                     - "fist" : no feedback
-                     - "thumnbs up" :go to next state
+Sign your feedback : - "open hand" : Dog caught/is close to the mouse   
+                     - "peace sign" : Dog is far from the mouse  
+                     - "fist" : no feedback  
+                     - "thumnbs up" :go to next state  
 
 # Speech feedback
 
