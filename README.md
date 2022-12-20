@@ -5,7 +5,7 @@ https://github.com/hlhllhLearning-Behaviors-with-Uncertain-Human-Feedback
 
 # GESTURE FEEDBACK 
 
------------------------ REQUIREMENTS ---------------------
+## REQUIREMENTS 
 
 pip install opencv-python
 
@@ -13,7 +13,7 @@ pip install mediapipe
 
 pip install tensorflow
 
--------------------------- HOW TO RUN -----------------------------------
+## HOW TO RUN 
 
 Run the abluf_cartoon_gesture.py code,
 
@@ -26,7 +26,7 @@ Sign your feedback : - "open hand" : Dog caught/is close to the mouse
 
 # SPEECH FEEDBACK
 
------------------------ REQUIREMENTS ---------------------
+## REQUIREMENTS 
 
 pip install speechrecognition
 
@@ -34,7 +34,7 @@ pip install portaudio
 
 pip install pyaudio
 
--------------------------- HOW TO RUN -----------------------------------
+## HOW TO RUN 
 
 Run the abluf_cartoon_speech.py code,
 
@@ -43,7 +43,7 @@ Say your feedback : - "Good" : Dog caught/is close to the mouse
                     - "Neutral" : no feedback
                     - "State" :go to next state 
 
-
+#
 
 Tips : 
 - Run the code from terminal (figures may not plot correctly with some IDEs)
