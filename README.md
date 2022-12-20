@@ -3,7 +3,7 @@
 From the paper "Learning Behaviors with Uncertain Human Feedback" with code found here :
 https://github.com/hlhllhLearning-Behaviors-with-Uncertain-Human-Feedback
 
-# GESTURE FEEDBACK 
+# Gesture feedback 
 
 ## REQUIREMENTS 
 
@@ -24,7 +24,7 @@ Sign your feedback : - "open hand" : Dog caught/is close to the mouse
                      - "fist" : no feedback
                      - "thumnbs up" :go to next state
 
-# SPEECH FEEDBACK
+# Speech feedback
 
 ## REQUIREMENTS 
 
