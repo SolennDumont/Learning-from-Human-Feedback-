@@ -5,7 +5,7 @@ https://github.com/hlhllhLearning-Behaviors-with-Uncertain-Human-Feedback
 
 # Gesture feedback 
 
-## REQUIREMENTS 
+### REQUIREMENTS 
 
 pip install opencv-python
 
@@ -13,7 +13,7 @@ pip install mediapipe
 
 pip install tensorflow
 
-## HOW TO RUN 
+### HOW TO RUN 
 
 Run the abluf_cartoon_gesture.py code,
 
